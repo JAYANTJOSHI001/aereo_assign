@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment files
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local storage and database files
+storage/
+data/
+*.db
+*.sqlite3
+
+# OS generated
+.DS_Store
+Thumbs.db

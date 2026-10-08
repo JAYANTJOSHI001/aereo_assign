@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+pydantic>=2
+pydantic-settings
+email-validator
+reportlab
+pypdf
+pytest
+httpx
+pytest-cov
